@@ -1,0 +1,22 @@
+{
+    "menu": [
+        {
+            "label": "Packages",
+            "submenu": [
+                {
+                    "label": "IVern Comment",
+                    "submenu": [
+                        {
+                            "label": "Section Comment",
+                            "command": "ivern-comment:section"
+                        },
+                        {
+                            "label": "Reverse Section Comment",
+                            "command": "ivern-comment:reverse-section"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
