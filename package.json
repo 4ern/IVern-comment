@@ -1,7 +1,7 @@
 {
   "name": "ivern-comment",
   "main": "./lib/ivern-comment",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Comment for Code",
   "keywords": [],
   "activationCommands": {
