@@ -1,15 +1,14 @@
 {
   "name": "ivern-comment",
   "main": "./lib/ivern-comment",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.1.0",
+  "description": "Comment for Code",
   "keywords": [
-  ],
+  ],    
   "activationCommands": {
     "atom-workspace":[
         "ivern-comment:section",
-        "ivern-comment:reverse-section",
-        "ivern-comment:section-end"
+        "ivern-comment:reverse-section"
     ]
   },
   "repository": "https://github.com/atom/ivern-comment",
