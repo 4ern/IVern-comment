@@ -7,7 +7,7 @@ So I took the idea and developed it for atom.
 
 #### [changelog](https://github.com/4ern/IVern-comment/blob/master/CHANGELOG.md)
 
-#Usage
+# Usage
 
 <kbd>ALT</kbd> + <kbd>Y</kbd> Create or customize a Section Comment.
 <kbd>ALT</kbd> + <kbd>X</kbd> Create or customize a Reverse Section Comment.
