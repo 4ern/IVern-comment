@@ -1,14 +1,12 @@
 # IVern-Comment
----
+
 I love Comment for Code from Kary Foundation (Comment 5) and missing this in atom.
 So I took the idea and developed it for atom.
 
 ![IVern-Comment](https://image.ibb.co/epXL15/ivern_comment.gif)
 
----
 #### [changelog](https://github.com/4ern/IVern-comment/blob/master/CHANGELOG.md)
 
----
 #Usage
 
 <kbd>ALT</kbd> + <kbd>Y</kbd> Create or customize a Section Comment.
