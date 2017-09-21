@@ -3,6 +3,11 @@
 I love Comment for Code from Kary Foundation (Comment 5) and missing this in atom.
 So I took the idea and developed it for atom.
 
+![travis](https://travis-ci.org/4ern/IVern-comment.svg?branch=master)
+[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)](https://github.com/4ern/IVern-comment)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/4ern/IVern-comment/blob/master/README.md)
+
+
 ![IVern-Comment](https://image.ibb.co/epXL15/ivern_comment.gif)
 
 #### [changelog](https://github.com/4ern/IVern-comment/blob/master/CHANGELOG.md)
